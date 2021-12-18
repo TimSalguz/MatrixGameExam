@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\User\Desktop\Exam\lab10SFMLClass-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Exam\lab10SFMLClass-main\rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Exam\lab10SFMLClass-main\functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\User\Desktop\Exam\lab10SFMLClass-main\objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\User\Desktop\Exam\lab10SFMLClass-main\rectangle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Exam\lab10SFMLClass-main\functions.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\User\Desktop\Exam\lab10SFMLClass-main\objects.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\User\Desktop\Exam\lab10SFMLClass-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E1361546-A4E9-3706-B433-E4BE3765BB89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F53E5CDD-C745-3897-9F06-0853CF05B0B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

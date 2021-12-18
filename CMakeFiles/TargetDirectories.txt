@@ -1,0 +1,3 @@
+D:/User/Desktop/Exam/build/CMakeFiles/MatrixGame.dir
+D:/User/Desktop/Exam/build/CMakeFiles/ALL_BUILD.dir
+D:/User/Desktop/Exam/build/CMakeFiles/ZERO_CHECK.dir
